@@ -174,7 +174,7 @@
 
 
 # package.json 编译
-```json
+```js
 {
   "name": "ts-study",
   "version": "1.0.0",
