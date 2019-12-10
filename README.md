@@ -12,8 +12,11 @@
 
 # 安装 ts-node
 
+<<<<<<< HEAD
 - window可以使用 `Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned`来解决禁止运行脚本
 
+=======
+>>>>>>> 41fc57ae73b567db64d4b23f5aa7038d3fcec43b
 - https://www.npmjs.com/package/ts-node
 
 - npm install -g ts-node

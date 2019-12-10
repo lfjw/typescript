@@ -10,9 +10,14 @@
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "dependencies": {
     "@types/node": "^12.12.16",
     "typescript": "^3.7.3"
   }
 }
+=======
+  "license": "ISC"
+}
+>>>>>>> 41fc57ae73b567db64d4b23f5aa7038d3fcec43b
